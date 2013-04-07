@@ -356,7 +356,6 @@ html[xmlns] .slides {
 	width: 13px;
 	height: 13px;
 	display: block;
-	background: url(theme/bg_control_nav.png) no-repeat;
 	cursor: pointer;
 	text-indent: -999em;
 }
